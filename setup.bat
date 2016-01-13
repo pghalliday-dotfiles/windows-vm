@@ -8,3 +8,4 @@ choco install -y poshgit
 choco install -y clink
 choco install -y tortoisesvn
 choco install -y tortoisegit
+choco install -y subversion
