@@ -11,15 +11,5 @@ First install `chocolatey` from a command prompt with administrative privileges
 Restart command prompt with admistrative privileges to reload environment then
 
 ```
-choco install -y ^
-conemu ^
-python2 ^
-vim ^
-git ^
-unxutils ^
-poshgit ^
-clink ^
-tortoisesvn ^
-tortoisegit ^
-svn
+choco.bat
 ```
