@@ -8,3 +8,6 @@ choco install -y clink
 choco install -y tortoisesvn
 choco install -y tortoisegit
 choco install -y svn
+choco install -y hosts.editor
+choco install -y filezilla
+choco install -y winscp
