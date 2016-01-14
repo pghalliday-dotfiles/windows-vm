@@ -11,3 +11,4 @@ choco install -y svn
 choco install -y hosts.editor
 choco install -y filezilla
 choco install -y winscp
+choco install -y xmlstarlet
