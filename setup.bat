@@ -1,3 +1,4 @@
+choco install -y googlechrome
 choco install -y conemu
 choco install -y python2
 choco install -y vim
