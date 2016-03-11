@@ -13,3 +13,4 @@ choco install -y filezilla
 choco install -y winscp
 choco install -y xmlstarlet
 choco install -y sublimetext3
+choco install -y 7zip
