@@ -7,7 +7,7 @@ First install [chocolatey](https://chocolatey.org/)
 From a powershell with administrative privileges:
 
 ```
-Set-ExecutionPolicy Unrestricted
+Set-ExecutionPolicy Unrestricted -force
 iex ((new-object net.webclient).DownloadString('https://chocolatey.org/install.ps1'))
 ```
 
